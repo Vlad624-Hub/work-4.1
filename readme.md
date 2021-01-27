@@ -1,11 +1,14 @@
 # Инструкция по работе с GIT
 
 LICENSE:[сMIT](./license.md)
-![git-logo](./assets/git-logo.png)
+
+![git-logo](./assets/git-logo.png])
+
+![GitHub.png](./assets/GitHub.png])
 
 ---
 
-Test commit
+# Test commit
 
 
 ---
