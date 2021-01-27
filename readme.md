@@ -2,9 +2,9 @@
 
 LICENSE:[сMIT](./license.md)
 
-![git-logo](./assets/git-logo.png])
+![git-logo](./assets/git-logo.png)
 
-![GitHub.png](./assets/GitHub.png])
+![GitHub.png](./assets/GitHub.png)
 
 ---
 
