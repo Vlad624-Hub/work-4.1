@@ -13,4 +13,6 @@ LICENSE:[сMIT](./license.md)
 
 ---
 GIT Logo by Jason Long - http://git-scm.com/downloads/logos
-license: [CC BY 3.0](https://opensource.org/licenses/MIT) 
+license: [CC BY 3.12](https://opensource.org/licenses/MIT) 
+
+Git-Commandos-https://proglib.io/p/git-cheatsheet
